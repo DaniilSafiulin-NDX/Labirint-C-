@@ -1,0 +1,10 @@
+C:\Users\Daniil\source\repos\Labirint\bin\Debug\Labirint.exe.config
+C:\Users\Daniil\source\repos\Labirint\bin\Debug\Labirint.exe
+C:\Users\Daniil\source\repos\Labirint\bin\Debug\Labirint.pdb
+C:\Users\Daniil\source\repos\Labirint\obj\Debug\Labirint.csprojAssemblyReference.cache
+C:\Users\Daniil\source\repos\Labirint\obj\Debug\Labirint.Form1.resources
+C:\Users\Daniil\source\repos\Labirint\obj\Debug\Labirint.Properties.Resources.resources
+C:\Users\Daniil\source\repos\Labirint\obj\Debug\Labirint.csproj.GenerateResource.cache
+C:\Users\Daniil\source\repos\Labirint\obj\Debug\Labirint.csproj.CoreCompileInputs.cache
+C:\Users\Daniil\source\repos\Labirint\obj\Debug\Labirint.exe
+C:\Users\Daniil\source\repos\Labirint\obj\Debug\Labirint.pdb
